@@ -1,12 +1,15 @@
 # Agentic Operating System Implementation
 
-## Status: not-started (spec approved pending owner review)
+## Status: phase-1-in-progress
 
 ## Completed
 
 - Spec drafted (design.md, decisions.md, prompts.md, future-work.md) — 2026-10-19
+- Phase 1 `ops/` skeleton: README, Dispatcher charter, facts stub, runlog — 2026-10-21
 
 ## In Progress
+
+- Phase 1: Dispatcher scheduled task (weekday mornings) — verify first real digest arrives
 
 ## Blocked
 
